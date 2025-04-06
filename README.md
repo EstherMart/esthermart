@@ -1,7 +1,7 @@
 ## Hey, I'm Esther 👋  
 
 💻 Software Engineer Intern | 🌱 CS Student  
-⚡ Tech Explorer** | 🛠️ Building cool stuff with code  
+⚡ Tech Explorer | 🛠️ Building cool stuff with code  
 
 ---
 
