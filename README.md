@@ -1,8 +1,13 @@
 ## Hey, I'm Esther 👋  
-![Lesbian Pride](https://img.shields.io/badge/Pride-Lesbian-ff9cd7?style=flat&logoColor=d65a95&labelColor=1a0933)  
 
-💻 Software Engineer Intern | 🌱 CS Student  
-⚡ Tech Explorer** | 🛠️ Building cool stuff with code  
+<img src="https://via.placeholder.com/1000x100/ef7627/ffffff?text=" width="100%" />
+
+<p align="center">
+  <strong>💻 Software Engineer Intern | 🌱 CS Student</strong><br>
+  ⚡ <em>Tech Explorer</em> | 🛠️ Building cool stuff with code  
+</p>
+
+<img src="https://via.placeholder.com/1000x100/d162a4/ffffff?text=" width="100%" /> 
 
 ---
 
