@@ -1,13 +1,9 @@
 ## Hey, I'm Esther 👋  
 
-<img src="https://via.placeholder.com/1000x100/ef7627/ffffff?text=" width="100%" />
-
 <p align="center">
   <strong>💻 Software Engineer Intern | 🌱 CS Student</strong><br>
   ⚡ <em>Tech Explorer</em> | 🛠️ Building cool stuff with code  
 </p>
-
-<img src="https://via.placeholder.com/1000x100/d162a4/ffffff?text=" width="100%" /> 
 
 ---
 
