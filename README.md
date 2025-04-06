@@ -1,7 +1,7 @@
 ## Hey, I'm Esther 👋  
 
-💻 **Software Engineer Intern** | 🌱 **CS Student (5th Semester)**  
-⚡ **Tech Explorer** | 🛠️ **Building cool stuff with code**  
+💻 Software Engineer Intern | 🌱 CS Student  
+⚡ Tech Explorer** | 🛠️ Building cool stuff with code  
 
 ---
 
@@ -19,9 +19,9 @@
 ### **📊 GitHub Analytics**  
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMart&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=0080FF" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMart&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF" />  
-</div>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMart&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&border_color=44475a" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMart&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&border_color=44475a" />  
+</div>
 
 ---
 
