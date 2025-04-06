@@ -3,8 +3,6 @@
 💻 **Software Engineer Intern** | 🌱 **CS Student (5th Semester)**  
 ⚡ **Tech Explorer** | 🛠️ **Building cool stuff with code**  
 
-💡 **Turning ideas into reality, one line of code at a time**  
-
 ---
 
 ### **🛠️ Tech & Tools**  
