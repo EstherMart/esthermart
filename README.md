@@ -5,11 +5,11 @@
 
 ---
 
-### **📊 GitHub Analytics**  
+### 📊 GitHub Analytics  
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMart&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=d162a4&icon_color=ff9a56&text_color=ffffff&border_color=ef7627" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMart&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=b55690&text_color=ffffff&border_color=d52d00" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMart&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=d162a4&icon_color=ff9a56&text_color=ffffff&border_color=ef7627" alt="EstherMart GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMart&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=b55690&text_color=ffffff&border_color=d52d00" alt="EstherMart Top Languages" />
 </div>
 
 ---
