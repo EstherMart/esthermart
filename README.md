@@ -8,8 +8,8 @@
 ### **📊 GitHub Analytics**  
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMart&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D52D00&icon_color=FF9A56&text_color=ffffff&border_color=A30262" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMart&layout=compact&hide_border=true&bg_color=0d1117&title_color=D52D00&text_color=ffffff&border_color=A30262" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherMart&show_icons=true&hide_border=true&bg_color=1a0933&title_color=ff9cd7&icon_color=d65a95&text_color=ffffff&border_color=ad4b8f" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherMart&layout=compact&hide_border=true&bg_color=1a0933&title_color=ff9cd7&text_color=ffffff&border_color=ad4b8f" />  
 </div>
 
 ---
