@@ -1,4 +1,4 @@
-# Hey, I'm Esther (or Luiza—call me whichever you prefer!) 👋  
+## Hey, I'm Esther (or Luiza—call me whichever you prefer!) 👋  
 
 💻 **Software Engineer Intern** | 🌱 **CS Student (5th Semester)**  
 ⚡ **Tech Explorer** | 🛠️ **Building cool stuff with code**  
