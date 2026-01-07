@@ -1,6 +1,6 @@
 ## Hey, I'm Esther 👋  
 
-💻 Software Engineer Intern | 🌱 CS Student  
+💻 Jr Full Stack Developer | 🌱 CS Student  
 ⚡ Tech Explorer | 🛠️ Building cool stuff with code  
 
 ---
