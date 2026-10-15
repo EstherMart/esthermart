@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/EstherMart/EstherMart/main/profile-3d-contrib/profile-customize.svg" />
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
