@@ -42,7 +42,6 @@
 
 ### **🎨 Beyond Code**
 - **Biology + Neuroscience geek** 🧠: Brains and codes have *weird* bugs!
-- **Art lover** 🎨: When I'm not coding, I'm doodling or admiring art :)
 
 ---
 
