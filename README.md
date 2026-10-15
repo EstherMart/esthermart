@@ -1,22 +1,40 @@
-## Hey, I'm Esther 👋  
+<div align="center">
 
-💻 Jr Full Stack Developer | 🌱 CS Student  
-⚡ Tech Explorer | 🛠️ Building cool stuff with code  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=180&section=header&text=Hey,%20I'm%20Esther&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9A56&center=true&vCenter=true&width=520&lines=Jr+Full+Stack+Developer;CS+Student;Tech+Explorer;Building+cool+stuff+with+code" alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 📊 GitHub Analytics  
+### 🐍 Meus commits (a cobra está com fome)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstherMart/EstherMart/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/EstherMart/EstherMart/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
 
   <img height="180em" src="https://my-readme-stats-tawny.vercel.app/api?username=EstherMart&show_icons=true&hide_border=true&bg_color=1a1a1a&title_color=d162a4&icon_color=ff9a56&text_color=ffffff&border_color=ef7627&count_private=true" alt="EstherMart GitHub Stats" />
 
   <img height="180em" src="https://my-readme-stats-tawny.vercel.app/api/top-langs/?username=EstherMart&layout=compact&hide_border=true&bg_color=1a1a1a&title_color=b55690&text_color=ffffff&border_color=d52d00&count_private=true" alt="EstherMart Top Languages" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=EstherMart&hide_border=true&background=1a1a1a&ring=D162A4&fire=FF9A56&currStreakLabel=EF7627&sideLabels=B55690&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="Streak" />
 </div>
 
 ---
 
-### **🛠️ Tech & Tools**  
+### **🛠️ Tech & Tools**
 
 | **Area**       | **Skills**                                                                 |
 |----------------|---------------------------------------------------------------------------|
@@ -27,10 +45,16 @@
 
 ---
 
-### **🎨 Beyond Code**  
-- **Biology + Neuroscience geek** 🧠: Brains and codes have *weird* bugs!  
-- **Art lover** 🎨: When I'm not coding, I'm doodling or admiring art :)  
+### **🎨 Beyond Code**
+- **Biology + Neuroscience geek** 🧠: Brains and codes have *weird* bugs!
+- **Art lover** 🎨: When I'm not coding, I'm doodling or admiring art :)
 
 ---
 
+<div align="center">
+
 ⭐ **Thanks for visiting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" alt="Footer" />
+
+</div>
