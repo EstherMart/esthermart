@@ -8,13 +8,8 @@
 
 ---
 
-### 🐍 Meus commits (a cobra está com fome)
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EstherMart/EstherMart/output/github-snake-dark.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/EstherMart/EstherMart/output/github-snake.svg" />
-  </picture>
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/EstherMart/EstherMart/main/profile-3d-contrib/profile-customize.svg" />
 </div>
 
 ---
